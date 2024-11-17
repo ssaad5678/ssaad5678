@@ -5,9 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssaad5678&label=Profile%20views&color=0e75b6&style=flat" alt="ssaad5678" /> </p>
 
-- 🔭 I’m currently working on Generative Adversarial Networks for advancing image processing **Meta-GANs for Progressive Image Forensics**
+- 🔭 I’m currently working on a Research Project for Solving the Problem of Trade-off Between Model Compression Techniques such as Quantization and Pruning that reduce model size and
+- inference time but result in accuracy drops and inconsistent latency, which affects real-time applications such as object detection for **Robots**. 
 
-- 🌱 I’m currently learning **TensorFlow and Pytorch**
+- 🌱 I’m currently learning **Edge AI Optimization and ONNX Runt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
